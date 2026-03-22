@@ -24,7 +24,7 @@ customer lifetime value.
 ## 📊 Dashboard Preview
 > The dashboards below highlight key visualisations from the analysis.
 > For the complete set of charts and detailed findings, refer to the
-The Tableau dashboard 
+The Tableau dashboard https://public.tableau.com/views/OfficeEssentialsAustraliaBusinessIntelligenceAnalysis-Dashboard/2_1RFMDashBoard?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Page 1: Business Health Overview**
 - KPI summary, YoY profit comparison, regional quadrant analysis,
