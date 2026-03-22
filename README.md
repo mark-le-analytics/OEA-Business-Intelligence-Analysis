@@ -76,7 +76,7 @@ The Tableau dashboard https://public.tableau.com/views/OfficeEssentialsAustralia
 - **Tables:** 3 relational tables — Transaction, Product, and Client
 - **Volume:** Multi-year B2B transactions across all Australian states
 
-A full data dictionary is available in `data_dictionary.xlsx`.
+A full data dictionary is available in `OEA Transaction 2019-2024 Dataset (2).xlsx`.
 
 **Data Quality Actions Taken:**
 - Removed 7 duplicate transaction rows
